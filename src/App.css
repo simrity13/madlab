@@ -1,17 +1,22 @@
 :root{
-  --mainBlue: #2a2a72;
-  --lightBlue: #009ffd ;
+  --mainBlue: #3c6382;
+  --lightBlue: #ffffff ;
   --mainWhite: #f3f3f3;
-  --mainDark: #232528;
-  --mainYellow: #ffa400 ;
+  --mainDark: #e4e724;
+  --mainYellow: #d8ab57 ;
+}
+
+.container{
+background-color: #f3f3f3;
 }
 body{
-  font-family: "Oswald", sans-serif !important;
-  background: var(--mainWhite) !important;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif!important;
+  background: url(/img/bakery.jpeg);
+  background-repeat: ;
   color: var(--mainDark) !important;  
 }
 .text-title{
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }

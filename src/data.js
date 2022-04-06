@@ -104,7 +104,7 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Blueberry Baked Donuts",
+  title: "Baked Carrot Cake Donuts",
   img: "img/pic1.webp",
   price: 100,
   company: "BAKERY",
